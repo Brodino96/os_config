@@ -33,6 +33,7 @@ winget install -e --id Maxon.CinebenchR23 --silent;
 winget install -e --id PrimateLabs.Geekbench.6 --silent;
 winget install -e --id CrystalDewWorld.CrystalDiskMark --silent;
 winget install -e --id JetBrains.IntelliJIDEA.Community;
+winget install -e --id Nilesoft.Shell --silent;
 winget update --all --silent;
 
 # Runs configuration script
