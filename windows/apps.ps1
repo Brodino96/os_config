@@ -18,7 +18,6 @@ winget install -e --id clsid2.mpc-hc --silent;
 winget install -e --id Valve.Steam --silent;
 winget install -e --id Discord.Discord --silent;
 winget install -e --id CPUID.HWMonitor --silent;
-winget install -e --id Parsec.Parsec --silent;
 winget install -e --id Nushell.Nushell --silent;
 winget install -e --id junegunn.fzf --silent;
 winget install -e --id ajeetdsouza.zoxide --silent;
@@ -32,7 +31,6 @@ winget install -e --id Adobe.CreativeCloud --silent;
 winget install -e --id Maxon.CinebenchR23 --silent;
 winget install -e --id PrimateLabs.Geekbench.6 --silent;
 winget install -e --id CrystalDewWorld.CrystalDiskMark --silent;
-winget install -e --id JetBrains.IntelliJIDEA.Community;
 winget install -e --id Nilesoft.Shell --silent;
 winget update --all --silent;
 
